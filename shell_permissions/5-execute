@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 744 5-execute
+chmod 744 5-execute
